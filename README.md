@@ -1,20 +1,33 @@
-### Hi there 👋
+# Hi, I'm Jose Perdomo 👋
 
-<!--
-**J0cP3rd0m0/J0cP3rd0m0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Intelligence Consultant | IT Manager | Data & Automation Specialist**
 
-Here are some ideas to get you started:
+I help companies transform data into actionable insights through Business Intelligence, process automation, and systems integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Expertise
 
-github markdown para buscar ayuda del markdown
+📊 Power BI & KPI Dashboards  
+🗄️ SQL & Data Analytics  
+🐍 Python Automation  
+🔗 API Integrations  
+☁️ Microsoft 365 Administration  
+🏢 ERP & WMS Reporting  
 
-https://training.github.com/downloads/es_ES/github-git-cheat-sheet/ enlace para cheat de git
+### Currently Working On
+
+- Business Intelligence Solutions
+- Process Automation Projects
+- Data-Driven Decision Making
+- Web Applications for Operational Management
+
+### Tech Stack
+
+Power BI • DAX • SQL Server • Python • PHP • Laravel • APIs • Microsoft 365 • Power Automate • Qlik Sense
+
+### Let's Connect
+
+💼 LinkedIn: [Tu Perfil]  
+📧 Contact: Available for freelance projects
+
+---
+*"Turning data into decisions."*
