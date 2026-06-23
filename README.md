@@ -26,7 +26,7 @@ Power BI • DAX • SQL Server • Python • PHP • Laravel • APIs • Micr
 
 ### Let's Connect
 
-💼 LinkedIn: [Tu Perfil]  
+💼 LinkedIn: j0cp3rd0m0  
 📧 Contact: Available for freelance projects
 
 ---
